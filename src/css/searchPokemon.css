@@ -1,0 +1,20 @@
+.form {
+    position: fixed;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.form label, .form input{
+    display: block;
+    margin: 10px auto;
+}
+
+.result {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
